@@ -1,0 +1,201 @@
+product_id,product_name,category,unit_cost,reorder_level
+1001,Headphones 1,Accessories,16832.04,41
+1002,Tea Pack 2,Grocery,57294.17,63
+1003,T-Shirt 3,Clothing,44286.92,91
+1004,Storage Box 4,Home & Kitchen,33283.53,47
+1005,Smartphone 5,Electronics,36722.66,15
+1006,Webcam 6,Electronics,25205.02,35
+1007,Tablet 7,Electronics,14901.47,69
+1008,Sugar Pack 8,Grocery,21390.56,20
+1009,Jacket 9,Clothing,45482.87,95
+1010,Backpack 10,Clothing,912.89,83
+1011,Laptop 11,Electronics,7008.55,19
+1012,Tea Pack 12,Grocery,2807.86,17
+1013,Rice Bag 13,Grocery,2491.69,67
+1014,Mouse Pad 14,Accessories,51334.86,37
+1015,Keyboard 15,Accessories,42234.29,67
+1016,Adapter 16,Accessories,28476.72,51
+1017,Keyboard 17,Accessories,5915.16,88
+1018,Water Bottle 18,Home & Kitchen,29522.37,88
+1019,Toaster 19,Home & Kitchen,28434.63,97
+1020,USB Cable 20,Accessories,10433.45,31
+1021,Socks Pack 21,Clothing,26059.41,99
+1022,Laptop 22,Electronics,23940.36,92
+1023,Headphones 23,Accessories,36970.21,87
+1024,Mouse 24,Accessories,38123.86,15
+1025,Storage Box 25,Home & Kitchen,2765.98,65
+1026,T-Shirt 26,Clothing,22508.03,59
+1027,Adapter 27,Accessories,37570.3,91
+1028,Desk Lamp 28,Home & Kitchen,30213.02,18
+1029,Storage Box 29,Home & Kitchen,51396.57,76
+1030,Webcam 30,Electronics,39538.68,79
+1031,Jacket 31,Clothing,9817.92,46
+1032,Laptop 32,Electronics,4280.6,48
+1033,Webcam 33,Electronics,38563.04,86
+1034,Rice Bag 34,Grocery,1639.35,53
+1035,Coffee Pack 35,Grocery,35167.25,40
+1036,Tea Pack 36,Grocery,56416.8,48
+1037,USB Cable 37,Accessories,34549.68,68
+1038,Smartphone 38,Electronics,23320.79,17
+1039,Backpack 39,Clothing,38615.13,64
+1040,Toaster 40,Home & Kitchen,27522.26,26
+1041,Smartphone 41,Electronics,32759.73,79
+1042,Toaster 42,Home & Kitchen,56490.82,68
+1043,Smartphone 43,Electronics,23196.85,19
+1044,Flour Bag 44,Grocery,57673.37,71
+1045,USB Cable 45,Accessories,54325.77,31
+1046,Backpack 46,Clothing,11787.68,61
+1047,USB Cable 47,Accessories,4208.21,37
+1048,Cookware Set 48,Home & Kitchen,6091.64,93
+1049,Water Bottle 49,Home & Kitchen,1142.4,99
+1050,Mouse Pad 50,Accessories,5711.86,28
+1051,Sugar Pack 51,Grocery,40996.26,80
+1052,T-Shirt 52,Clothing,4317.76,89
+1053,Coffee Pack 53,Grocery,19172.59,65
+1054,Rice Bag 54,Grocery,50700.27,52
+1055,Desk Lamp 55,Home & Kitchen,1445.15,78
+1056,Coffee Pack 56,Grocery,48877.39,52
+1057,Router 57,Electronics,16947.19,64
+1058,USB Cable 58,Accessories,7133.98,96
+1059,Tablet 59,Electronics,41819.39,44
+1060,USB Cable 60,Accessories,37755.12,93
+1061,Mouse 61,Accessories,52654.45,65
+1062,Mouse 62,Accessories,44117.51,77
+1063,Coffee Pack 63,Grocery,48218.68,66
+1064,Headphones 64,Accessories,16957.97,52
+1065,Adapter 65,Accessories,10687.5,93
+1066,Desk Lamp 66,Home & Kitchen,45049.35,44
+1067,Smartphone 67,Electronics,48419.74,65
+1068,Flour Bag 68,Grocery,59430.78,95
+1069,Smartphone 69,Electronics,24786.43,19
+1070,Tea Pack 70,Grocery,22352.48,43
+1071,Sneakers 71,Clothing,46595.96,18
+1072,Mouse 72,Accessories,20481.17,24
+1073,Router 73,Electronics,55848.9,70
+1074,Flour Bag 74,Grocery,51511.84,31
+1075,T-Shirt 75,Clothing,25768.19,88
+1076,Backpack 76,Clothing,45064.72,31
+1077,Socks Pack 77,Clothing,45284.85,98
+1078,Speaker 78,Electronics,6232.28,83
+1079,USB Cable 79,Accessories,54158.05,48
+1080,Tablet 80,Electronics,30339.88,20
+1081,Rice Bag 81,Grocery,49596.13,67
+1082,Sneakers 82,Clothing,19236.97,80
+1083,Power Bank 83,Accessories,53736.62,91
+1084,Router 84,Electronics,23382.64,57
+1085,Mouse Pad 85,Accessories,699.72,89
+1086,Power Bank 86,Accessories,54327.65,37
+1087,T-Shirt 87,Clothing,5522.64,69
+1088,Jacket 88,Clothing,19192.85,94
+1089,Cooking Oil 89,Grocery,57006.21,89
+1090,Mixer 90,Home & Kitchen,57038.9,30
+1091,Monitor 91,Electronics,34427.6,22
+1092,Backpack 92,Clothing,37928.64,18
+1093,Jeans 93,Clothing,26934.31,18
+1094,Cookware Set 94,Home & Kitchen,17627.99,70
+1095,Backpack 95,Clothing,19753.44,39
+1096,Water Bottle 96,Home & Kitchen,40367.48,81
+1097,Toaster 97,Home & Kitchen,45154.85,81
+1098,Water Bottle 98,Home & Kitchen,47505.16,41
+1099,Speaker 99,Electronics,47387.61,46
+1100,Printer 100,Electronics,5517.81,64
+1101,Monitor 101,Electronics,29690.5,75
+1102,Jeans 102,Clothing,3500.65,65
+1103,Keyboard 103,Accessories,32994.26,33
+1104,Mixer 104,Home & Kitchen,26519.75,35
+1105,Rice Bag 105,Grocery,53267.87,19
+1106,Mouse 106,Accessories,21087.36,96
+1107,Cookware Set 107,Home & Kitchen,7068.17,56
+1108,Backpack 108,Clothing,8622.35,75
+1109,Power Bank 109,Accessories,45702.56,36
+1110,Router 110,Electronics,37112.17,35
+1111,Keyboard 111,Accessories,6112.3,84
+1112,Speaker 112,Electronics,5092.2,15
+1113,Cooking Oil 113,Grocery,42073.1,19
+1114,Tea Pack 114,Grocery,4412.14,26
+1115,Jeans 115,Clothing,49320.51,60
+1116,Rice Bag 116,Grocery,42389.22,48
+1117,Flour Bag 117,Grocery,4926.86,63
+1118,Headphones 118,Accessories,5136.02,92
+1119,Cooking Oil 119,Grocery,59199.04,59
+1120,Mixer 120,Home & Kitchen,22487.53,41
+1121,Coffee Pack 121,Grocery,22270.0,87
+1122,Flour Bag 122,Grocery,48777.33,40
+1123,Headphones 123,Accessories,56837.55,61
+1124,Laptop 124,Electronics,59160.76,100
+1125,Adapter 125,Accessories,45215.02,70
+1126,Toaster 126,Home & Kitchen,22606.76,77
+1127,Coffee Pack 127,Grocery,5055.87,62
+1128,Tea Pack 128,Grocery,46639.96,75
+1129,Speaker 129,Electronics,33526.33,95
+1130,Storage Box 130,Home & Kitchen,25482.11,40
+1131,Water Bottle 131,Home & Kitchen,54385.95,50
+1132,Keyboard 132,Accessories,6716.29,15
+1133,Webcam 133,Electronics,29582.88,22
+1134,Power Bank 134,Accessories,730.65,66
+1135,Sugar Pack 135,Grocery,28146.21,93
+1136,USB Cable 136,Accessories,3425.38,61
+1137,Mixer 137,Home & Kitchen,7173.13,70
+1138,Jeans 138,Clothing,7095.7,100
+1139,Power Bank 139,Accessories,38970.16,28
+1140,Sugar Pack 140,Grocery,44775.39,42
+1141,Flour Bag 141,Grocery,35022.96,92
+1142,Adapter 142,Accessories,57732.24,16
+1143,Water Bottle 143,Home & Kitchen,22523.49,40
+1144,Keyboard 144,Accessories,17178.44,28
+1145,Adapter 145,Accessories,52122.52,73
+1146,Laptop 146,Electronics,13454.57,70
+1147,Sneakers 147,Clothing,57795.19,21
+1148,Water Bottle 148,Home & Kitchen,778.66,17
+1149,Smartphone 149,Electronics,58194.24,37
+1150,Power Bank 150,Accessories,2637.44,32
+1151,Sugar Pack 151,Grocery,53474.03,52
+1152,USB Cable 152,Accessories,31685.68,29
+1153,Tablet 153,Electronics,59578.24,78
+1154,Desk Lamp 154,Home & Kitchen,4474.1,42
+1155,Rice Bag 155,Grocery,33253.56,88
+1156,Mouse Pad 156,Accessories,58159.69,53
+1157,Sneakers 157,Clothing,31409.72,71
+1158,Sneakers 158,Clothing,37782.45,31
+1159,Headphones 159,Accessories,41760.13,100
+1160,Socks Pack 160,Clothing,27299.74,58
+1161,Power Bank 161,Accessories,37672.11,39
+1162,Sneakers 162,Clothing,35079.64,31
+1163,Backpack 163,Clothing,54074.42,27
+1164,Desk Lamp 164,Home & Kitchen,2774.51,98
+1165,Webcam 165,Electronics,16893.74,39
+1166,Coffee Pack 166,Grocery,57027.17,82
+1167,Adapter 167,Accessories,53421.31,24
+1168,Power Bank 168,Accessories,27366.62,81
+1169,Printer 169,Electronics,37226.95,32
+1170,Storage Box 170,Home & Kitchen,16679.0,100
+1171,Socks Pack 171,Clothing,11327.86,48
+1172,Monitor 172,Electronics,27848.72,22
+1173,Storage Box 173,Home & Kitchen,21233.47,54
+1174,Keyboard 174,Accessories,35040.18,97
+1175,Backpack 175,Clothing,4710.19,56
+1176,Printer 176,Electronics,58464.97,55
+1177,T-Shirt 177,Clothing,59173.33,20
+1178,Power Bank 178,Accessories,41904.79,66
+1179,Tea Pack 179,Grocery,32188.98,40
+1180,Tablet 180,Electronics,18606.18,78
+1181,Keyboard 181,Accessories,48837.01,73
+1182,Speaker 182,Electronics,41099.63,70
+1183,Cooking Oil 183,Grocery,9798.89,73
+1184,Flour Bag 184,Grocery,54660.08,84
+1185,Keyboard 185,Accessories,49361.11,47
+1186,Socks Pack 186,Clothing,56990.5,67
+1187,Sugar Pack 187,Grocery,43556.88,36
+1188,Mixer 188,Home & Kitchen,36824.24,35
+1189,Storage Box 189,Home & Kitchen,25123.67,84
+1190,Mouse Pad 190,Accessories,55967.07,84
+1191,Laptop 191,Electronics,51970.53,18
+1192,Cooking Oil 192,Grocery,2760.86,89
+1193,Cooking Oil 193,Grocery,1630.7,76
+1194,T-Shirt 194,Clothing,22618.98,76
+1195,Power Bank 195,Accessories,48642.67,38
+1196,Keyboard 196,Accessories,59237.2,69
+1197,Backpack 197,Clothing,9067.49,23
+1198,Sugar Pack 198,Grocery,35668.14,17
+1199,Rice Bag 199,Grocery,22884.41,45
+1200,Socks Pack 200,Clothing,58196.37,54
